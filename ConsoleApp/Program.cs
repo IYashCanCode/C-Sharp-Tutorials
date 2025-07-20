@@ -6,7 +6,9 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello World!");
+            string_dtype obj = new string_dtype();
+            obj.check();
+
         }
     }
     
